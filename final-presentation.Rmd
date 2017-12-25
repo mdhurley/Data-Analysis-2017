@@ -1,6 +1,6 @@
 ---
 title: "Bitcoin Demand"
-author: "Michael Hurley & Jake"
+author: "Michael Hurley"
 date: "December 7, 2017"
 output: slidy_presentation
 ---
